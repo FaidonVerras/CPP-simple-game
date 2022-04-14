@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CardGame", "CardGame.vcxproj", "{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02194551-7DB7-4800-9549-096DA2F0B53E}"
+	ProjectSection(SolutionItems) = preProject
+		gameobject.h = gameobject.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}.Debug|x64.ActiveCfg = Debug|x64
+		{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}.Debug|x64.Build.0 = Debug|x64
+		{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}.Debug|x86.Build.0 = Debug|Win32
+		{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}.Release|x64.ActiveCfg = Release|x64
+		{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}.Release|x64.Build.0 = Release|x64
+		{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}.Release|x86.ActiveCfg = Release|Win32
+		{FA8159F2-A44F-43DF-8504-BE8F1D9CE03A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4576C6EA-9620-4F04-8C7F-B10602EDC5D2}
+	EndGlobalSection
+EndGlobal
